@@ -70,7 +70,7 @@ class _AboutState extends State<About> {
                   SizedBox(
                     width: 120,
                     child: TextButton(onPressed: (){
-                      const link = "https://drive.google.com/file/d/1T8mh3RlIkneYd-VVXXOELgu8DbXHv0rG/view?usp=sharing";
+                      const link = "https://drive.google.com/file/d/1BuMQrGZYyW_9Ju-iMMEOWHvKn1RXk_3t/view?usp=sharing";
                       launchUrl(
                        Uri.parse(link),
                        mode:LaunchMode.externalApplication
